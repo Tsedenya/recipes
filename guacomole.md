@@ -1,6 +1,6 @@
 # Ingridents
-- avocado
-- Lemon
+- avocadon
 - salt
+- Lime
 #instructions
 
