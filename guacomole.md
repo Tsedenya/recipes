@@ -1,6 +1,6 @@
 # Ingridents
 - avocadon
 - salt
-- Lime
+- balsamic vinegar
 #instructions
 
